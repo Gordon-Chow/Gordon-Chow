@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### I am a full stack software engineer who is passionate about developing apps and tools for users to enjoy themselves, obtaining information or simply having a tool to make their lives easier. I find myself often wondering about how it would be nice if something I was using had a feature or should do a certain thing. In the past, I have worked as a fueler at the airport and at a pet store. My favorite way to enjoy my free time is playing games that requires teamwork or communication.
+#### I am a full stack software engineer who is passionate about developing apps and tools for users to enjoy themselves, obtaining information or simply having a tool to make their lives easier. I find myself often wondering about how it would be nice if something I was using had a feature or should do a certain thing. 
+
+#### In the past, I have worked as a fueler at the airport and at a pet store. My favorite way to enjoy my free time is playing games that requires teamwork or communication.
 
 
 
